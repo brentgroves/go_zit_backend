@@ -89,3 +89,5 @@ Be sure to have a valid key JSON and that its service account is either ORG_OWNE
 <https://zitadel.com/docs/guides/integrate/zitadel-apis/example-zitadel-api-with-go>
 <https://zitadel.com/docs/guides/integrate/zitadel-apis/access-zitadel-apis>
 <https://zitadel.com/docs/guides/integrate/service-users/private-key-jwt#2-generate-a-private-key-file>
+
+Store key.json outside of repo
