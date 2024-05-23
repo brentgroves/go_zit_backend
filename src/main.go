@@ -16,7 +16,7 @@ import (
 var (
 	// flags to be provided for running the example server
 	domain  = flag.String("domain", "repsys-dev-4panhw.zitadel.cloud", "your ZITADEL instance domain (in the form: <instance>.zitadel.cloud or <yourdomain>)")
-	keyPath = flag.String("key", "", "path to your key.json")
+	keyPath = flag.String("key", "./key.json", "path to your key.json")
 )
 
 func main() {
